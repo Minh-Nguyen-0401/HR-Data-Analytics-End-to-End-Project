@@ -1,7 +1,7 @@
 # HR-Data-Analytics-End-to-End-Project
 
 ## Description:
-This project represents a comprehensive data analysis endeavor utilizing Python for Preprocessing, Exploratory Data Analysis (EDA), and Machine Learning. It was undertaken as the final project for the Programming for Data Analysis and Science Computing course at Foreign Trade University.
+This project represents a comprehensive data analysis endeavor utilizing Python for Preprocessing, Exploratory Data Analysis (EDA), and Machine Learning. It was undertaken as the final project for the Programming for Data Analysis and Science Computing course at Foreign Trade University, for which I was scored 9.5/10 (with 4.0 GPA overall).
 
 ## About the Dataset:
 The HR Analytics dataset offers insights into organizational trends and helps HR departments address challenges like attrition. Machine learning models can predict potential attrition cases, aiding in employee retention efforts.
