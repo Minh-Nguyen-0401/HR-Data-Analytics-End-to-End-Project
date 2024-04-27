@@ -22,7 +22,7 @@ The HR Analytics dataset offers insights into organizational trends and helps HR
 ## Project Highlights:
 - Utilized Python for cleaning, manipulation, and visualization of a substantial dataset of HR data sourced from a multinational company.
 - Applied a range of Python libraries including pandas, numpy, matplotlib, seaborn, and plotly to explore the dataset, creating interactive dashboards and charts for enhanced visualization.
-- Built and evaluated predictive machine learning models using scikit-learn and statsmodels to tackle various HR challenges such as employee turnover, performance, and satisfaction.
+- Built and evaluated predictive machine learning models using scikit-learn and statsmodels to tackle various HR challenges such as employee turnover, performance, and satisfaction. Also, statistical analysis is performed to assessment the degree of influence of various features (overtime, monthly rate, frequency of business travel, etc) on attrition rate
 - Employed advanced techniques such as cross-validation, grid search, and feature selection to optimize the machine learning models.
 - Presented the project's findings and recommendations in a clear and concise report format using Jupyter Notebook and Google Colab for enhanced collaboration and dissemination of results.
 
