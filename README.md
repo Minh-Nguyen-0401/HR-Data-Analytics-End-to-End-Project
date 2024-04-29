@@ -19,6 +19,11 @@ The HR Analytics dataset offers insights into organizational trends and helps HR
 > - Number of Companies Worked
 > - Distance from Home
 
+## Project Structure:
+1. **`README.md`**:  The introductory file containing quintessential information about the dataset and orientation of the project
+2. **`HR_analytics_final Basic to Advanced EDA & Machine Learning Models.ipynb`**: The main Jupyter Notebook containing comprehensive data transformation and analysis operations, in conjunction with in-details analysis and results intepretation conducive to insightful findings gathering procedure
+3. **`Analytic Figures`**: A compilation folder containing all the necessary figures selected during the analysis process that might cater to future reporting or presentation demands
+
 ## Project Highlights:
 - Utilized Python for cleaning, manipulation, and visualization of a substantial dataset of HR data sourced from a multinational company.
 - Applied a range of Python libraries including pandas, numpy, matplotlib, seaborn, and plotly to explore the dataset, creating interactive dashboards and charts for enhanced visualization.
